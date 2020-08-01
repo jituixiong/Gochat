@@ -1,9 +1,9 @@
 package Send
 
 import (
+	"Gochat/Client/Connenct"
 	"fmt"
 	"net"
-	"Client/Connenct"
 )
 
 type Send interface {

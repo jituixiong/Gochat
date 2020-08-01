@@ -1,7 +1,7 @@
 package RunServer
 
 import (
-	"Server/Ioo"
+	"Gochat/Server/Ioo"
 	"fmt"
 	"net"
 )

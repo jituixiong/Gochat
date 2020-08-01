@@ -1,7 +1,7 @@
 package Connenct
 
 import (
-	"Client/Ioo"
+	"Gochat/Client/Ioo"
 	"fmt"
 	"net"
 )

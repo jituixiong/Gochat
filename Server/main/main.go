@@ -1,12 +1,9 @@
 package main
 
 import (
-	"Server/RunServer"
+	"Gochat/Server/RunServer"
 )
 
 func main() {
 	RunServer.Run()
 }
-
-
-

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Client/Connenct"
-	"Client/Send"
+	"Gochat/Client/Connenct"
+	"Gochat/Client/Send"
 )
 
 func main() {
